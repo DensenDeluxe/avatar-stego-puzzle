@@ -170,7 +170,6 @@ Beyond the gate, the courier found the letter wound tightly like a spring. The K
 <summary><strong>OPTIONAL // Break the seal if you need a nudge</strong></summary>
 
 - [Checkpoints](CHECKPOINTS.md) — abbreviated commitments for verifying intermediate evidence.
-- [Hint 01](hints/HINT_01.md) — a small nudge, not a decoder.
 - [File checksums](SHA256SUMS.txt) — verify intact downloads.
 
 </details>
